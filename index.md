@@ -16,4 +16,4 @@ In addition to the lecture notes, I also wrote up various guides to how to do ce
 
 **Sets**
 
--[A Guide to the Language of Sets](https://agoodlad-instructor-notes.github.io/m018-spring-2021/a-guide-to the-language-of-sets.pdf)
+-[A Guide to the Language of Sets](https://agoodlad-instructor-notes.github.io/m018-spring-2021/a-guide-to-the-language-of-sets.pdf)
