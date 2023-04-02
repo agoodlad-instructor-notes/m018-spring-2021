@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## M018 Basic Algebra for Finite Math Fall II 2020 Lecture Notes
 
-You can use the [editor on GitHub](https://github.com/agoodlad-instructor-notes/m018-spring-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+During the first spring 2021 eight week period, I was an assistant instructor for the Indiana University class Basic Algebra for Finite Math (M018). This class is a two credit prep course for Finite Math. In this class, we learn basic sets, basic counting, basic probability, algebra on linear equations, matrices, reduced row operations, inequalities, and linear programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My lecture notes for this class are more or less the same as my notes for when I taught the class during the previous semester during the Fall II period, so refer you to the [Fall II notes](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020) for lectures there.
 
-### Markdown
+In addition to the lecture notes, I also wrote up various guides to how to do certain problems that I gave to the students
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Linear Equations**
 
-```markdown
-Syntax highlighted code block
+-[The Complete Guide to Solving a Single-Variable Linear Equation](https://agoodlad-instructor-notes.github.io/m018-spring-2021/the-complete-guide-to-solving-a-single-variable-linear-equation.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+-[The Complete Guide to Solving a Two-Variable Linear System of Equations](https://agoodlad-instructor-notes.github.io/m018-spring-2021/the-complete-guide-to-solving-a-two-variable-linear-system-of-equations.pdf)
 
-- Bulleted
-- List
+-[The Complete Guide to Solving a Matrix](https://agoodlad-instructor-notes.github.io/m018-spring-2021/the-complete-guide-to-solving-a-matrix.pdf)
 
-1. Numbered
-2. List
+**Sets**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agoodlad-instructor-notes/m018-spring-2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-[A Guide to the Language of Sets](https://agoodlad-instructor-notes.github.io/m018-spring-2021/a-guide-to the-language-of-sets.pdf)
