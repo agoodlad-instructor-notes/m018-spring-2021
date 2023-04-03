@@ -1,6 +1,6 @@
 ## M018 Basic Algebra for Finite Math Indiana University Spring 2021 Lecture Notes
 
-During the first spring 2021 eight week period, I was an assistant instructor for the Indiana University class Basic Algebra for Finite Math (M018). This class is a two credit prep course for Finite Math. In this class, we learn basic sets, basic counting, basic probability, algebra on linear equations, matrices, reduced row operations, inequalities, and linear programming.
+During the first spring 2021 eight week period, I was an instructor for the Indiana University class Basic Algebra for Finite Math (M018). This class is a two credit prep course for Finite Math. In this class, we learn basic sets, basic counting, basic probability, algebra on linear equations, matrices, reduced row operations, inequalities, and linear programming.
 
 My lecture notes for this class are more or less the same as my notes for when I taught the class during the previous semester during the Fall II period, so I refer you to the [Fall II notes](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020) for lectures there.
 
